@@ -1,12 +1,4 @@
 # Praktikum Pertemuan 9 - Laravel Routing & Controller
-
-## Nama
-Nama Kamu
-
-## NIM
-NIM Kamu
-
-## Deskripsi
 Project Laravel untuk praktikum routing, controller, dan view menggunakan Laravel.
 
 ---
